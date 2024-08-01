@@ -15,4 +15,4 @@ function nummerosAletarios(){
 
 let usuarioFinal = generarNombre () + nummerosAletarios ();
 
-alert(usuarioFinal)
+alert("Su usuario generado es: " + usuarioFinal)

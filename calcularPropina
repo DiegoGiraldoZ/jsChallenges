@@ -1,0 +1,11 @@
+// Clacular propina
+let totalFactura = 50; // Ingreso el valor de la factura
+
+
+let porcentajePropina = 15; // Ingreso el porcentaje de la propina
+
+// Calculo el resultado
+let propina = totalFactura * porcentajePropina / 100;
+
+// Muestro cuanto sería.
+console.log("La propina es: $" + propina);
